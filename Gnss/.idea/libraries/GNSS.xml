@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GNSS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Release/GNSS/out/artifacts/GNSS_jar/GNSS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
